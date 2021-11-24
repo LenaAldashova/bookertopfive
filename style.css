@@ -1,0 +1,45 @@
+*{font-family: Verdana;
+}
+
+body {
+	background-image: url("картинки сайту/фон.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;}
+.b {background-image: url("картинки сайту/фон шапки.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 200px;
+	}
+.x {
+    float: right; 
+   }
+td {
+    padding: 20px; 
+	}
+.a{
+	text-align: center;
+	text-decoration: underline;
+
+	}
+.s {
+    float:left; 
+    margin: 10px 10px 10px 0; 
+   }
+.o{
+   font-style: italic;
+   }
+.menu {
+    position: fixed; 
+    width: 1244px;
+	right: 10px;
+	top: 0%; 
+   }
+.y {
+   text-align: center;
+   }
+.m {
+	 margin: auto;
+   }
+.k {
+	font-size: 25px;
+}
